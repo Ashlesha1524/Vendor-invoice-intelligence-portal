@@ -1,5 +1,13 @@
 # Vendor Invoice Intelligence Portal
 
+# Live Demo
+
+https://vendor-invoice-intelligence-app-mu2kmbflpxt7bzkdeqfpnj.streamlit.app/
+
+# GitHub Repository
+
+https://github.com/Ashlesha1524/Vendor-invoice-intelligence-portal
+
 An end-to-end Machine Learning application that helps finance and procurement teams:
 
 1. Predict Freight Cost for vendor invoices.
