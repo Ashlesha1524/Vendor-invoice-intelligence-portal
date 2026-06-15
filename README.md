@@ -168,6 +168,8 @@ The application returns:
 
 * Estimated Freight Cost
 
+<img src="images/freight_prediction.png" width="900">
+
 ---
 
 ## Invoice Manual Approval Module
@@ -185,6 +187,8 @@ The application returns:
 * Manual Approval Required
   or
 * Safe for Auto Approval
+
+<img src="images/invoice_flagging.png" width="900">
 
 ---
 
